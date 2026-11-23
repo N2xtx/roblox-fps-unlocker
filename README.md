@@ -1,4 +1,8 @@
-# ⚡ Roblox FPS Unlocker
+<p align="center">
+  <img src="roblox.fps.maximizer.png" width="180" alt="Roblox FPS Unlocker Logo">
+</p>
+
+<h1 align="center">⚡ Roblox FPS Unlocker</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.1-00FF99?style=for-the-badge"/>
